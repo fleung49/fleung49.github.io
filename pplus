@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:-1 group-title="LOS ANGELES",KABC
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=172930
+#EXTINF:-1 group-title="LOS ANGELES",KCAL
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=397115
+#EXTINF:-1 group-title="LOS ANGELES",KCBS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=173138
+#EXTINF:-1 group-title="LOS ANGELES",KTLA
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=990397
+#EXTINF:-1 group-title="LOS ANGELES",KTLA_CA
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=176840
+#EXTINF:-1 group-title="LOS ANGELES",KNBC
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=173924
+#EXTINF:-1 group-title="LOS ANGELES",KTTV
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=173612
+#EXTINF:-1 group-title="LOS ANGELES",SPECTRUM NEWS LAX
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=150358
+#EXTINF:-1 group-title="NEWS,",ABC NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45438
+#EXTINF:-1 group-title="NEWS,",ALJAZEERA
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=155749
+#EXTINF:-1 group-title="NEWS,",BBC WORLD NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=176797
+#EXTINF:-1 group-title="NEWS,",CBS NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45603
+#EXTINF:-1 group-title="NEWS,",CCTV 4
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1423389
+#EXTINF:-1 group-title="NEWS,",CNN
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=442785
+#EXTINF:-1 group-title="NEWS,",CNBC
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45593
+#EXTINF:-1 group-title="NEWS,",DW NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=992267
+#EXTINF:-1 group-title="NEWS,",FOX BUSINESS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45575
+#EXTINF:-1 group-title="NEWS,",FOX NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45573
+#EXTINF:-1 group-title="NEWS,",FRANCE 24
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=149653
+#EXTINF:-1 group-title="NEWS,",MSNBC
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45535
+#EXTINF:-1 group-title="NEWS,",NBC NEWS NOW
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=875304
+#EXTINF:-1 group-title="NEWS,",NHK WORLD
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1014207
+#EXTINF:-1 group-title="NEWS,",RTE NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1014206
+#EXTINF:-1 group-title="NEWS,",RT NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=91935
+#EXTINF:-1 group-title="NEWS,",RT DOCUMENTARY
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=233242
+#EXTINF:-1 group-title="NEWS,",SKY NEWS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1458565
+#EXTINF:-1 group-title="NEWS,",THE WEATHER CHANNEL
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45455
+#EXTINF:-1 group-title="NEWS,",TRT WORLD
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=111539
+#EXTINF:-1 group-title="NEWS,",TVG
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=91939
+#EXTINF:-1 group-title="NEWS,",TVG 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=91940
+#EXTINF:-1 group-title="MUSIC",CELINE DION
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1061870
+#EXTINF:-1 group-title="MUSIC",ELVIS PRESLEY
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1061871
+#EXTINF:-1 group-title="MUSIC",MADONNA
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1061873
+#EXTINF:-1 group-title="MUSIC",MAGIC
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=164009
+#EXTINF:-1 group-title="MUSIC",MICHAEL JACKSON
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=930686
+#EXTINF:-1 group-title="MUSIC",NOW 70s
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=164022
+#EXTINF:-1 group-title="MUSIC",NOW 80s
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=164012
+#EXTINF:-1 group-title="MUSIC",NOW 90s
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=163796
+#EXTINF:-1 group-title="MUSIC",VEVO 70S
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=886257
+#EXTINF:-1 group-title="MUSIC",VEVO 80S
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=886256
+#EXTINF:-1 group-title="MUSIC",VEVO 90S
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=886255
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 1
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032529
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032528
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 3
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032527
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 4
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032526
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 5
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032525
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 6
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032524
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 7
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032523
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 8
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032522
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 9
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032521
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 10
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032520
+#EXTINF:-1 group-title="SPORTS",HUB PREMIER 11
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032519
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 4K 616
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032489
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 4K 617
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032488
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 1
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032487
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032486
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 3
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032485
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 4
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032484
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 5
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032483
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 6
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032482
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 7
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032481
+#EXTINF:-1 group-title="SPORTS",NOW PREMIER SPORTS 8
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032480
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 1
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032479
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032478
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 3
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032477
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 4
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032476
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 5
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032475
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 6
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032474
+#EXTINF:-1 group-title="SPORTS",NOW SPORTS 7
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1032473
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS EN 1
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=483921
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS EN 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=49225
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS XTRA N
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=1127391
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=45611
+#EXTINF:-1 group-title="SPORTS",BEIN SPORTS 2
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=83953
+#EXTINF:-1 group-title="SPORTS",GOL TV
+http://mag.premiumplus.tv/play/live.php?extension=ts&mac=00:1A:79:19:68:5F&stream=91896
